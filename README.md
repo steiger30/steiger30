@@ -1,5 +1,5 @@
 ## 👍 Olá! Eu sou o Renan 
-
+- 🌱 Estou estudanado NodeJS...
 - 📚 UTFPR-CP Engenharia de Software 6/8...
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/renan-steiger-36574314b/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/renanst4iger/)
