@@ -17,10 +17,3 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-## ⚡ Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/steiger30">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=steiger30&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steiger30&layout=compact&langs_count=7&theme=dark"/>
-</div>
